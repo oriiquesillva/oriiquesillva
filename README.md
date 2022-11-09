@@ -4,10 +4,10 @@
 - 🌱 Estudando Design e Desenvolvimento de Software.
 - 😄 Pronomes: Ele/Dele
 
-<div display="flex flex-direction="row">
+<div display="flex gap="1" >
   <a href="https://github.com/oriiquesillva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oriiquesillva&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriiquesillva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oriiquesillva&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriiquesillva&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
