@@ -1,8 +1,9 @@
 ### Olá Mundo!, eu sou o Luiz 👋🏿
 
 
-- 🌱 Estudando Design e Desenvolvimento de Software.
-- 😄 Pronomes: Ele/Dele
+- 🌱 Desenvolvedor FullStack.
+- 🕹 Gamer mediano nas horas vagas.
+- 😄 Pronomes: Ele/Dele.
 
 
 <div align="center">  
