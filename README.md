@@ -5,17 +5,6 @@
 - 🕹 Gamer mediano nas horas vagas.
 - 😄 Pronomes: Ele/Dele.
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oriiquesillva&show_icons=false&count_private=true&hide_border=true&title_color=fff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Souza Github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriiquesillva&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
-</div>
-
-<!-- <div align="center" >
-  <a href="https://github.com/oriiquesillva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oriiquesillva&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriiquesillva&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
   
   ##
   
@@ -33,8 +22,5 @@
  
 <div> 
   <a href = "mailto:lsillva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-souza-a0bbab245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/oriiquesillva/oriiquesillva/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/luiz-souza-a0bbab245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
